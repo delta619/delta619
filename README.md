@@ -1,16 +1,37 @@
-### Hi there 👋
+# 👋 Hello, I'm [Your Name]!
 
-<!--
-**delta619/delta619** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header](https://your-image-url.com/header-image.jpg)
 
-Here are some ideas to get you started:
+I'm a passionate [Your Profession] from [Your Location]. Currently, I work at [Your Company] on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Your%20Tech%20Stack-blue)
+
+- Languages: [List of Languages]
+- Frameworks: [List of Frameworks]
+- Tools: [List of Tools]
+
+## 🌱 I'm currently learning
+
+[Current Learning Focus]
+
+## 🚀 Projects
+
+### [Golang DFS]
+
+Description of the project with a link to the repository.
+
+### [Pintnetwork]
+
+Description of the project with a link to the repository.
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=delta619&show_icons=true&count_private=true&hide=contribs,prs&theme=radical)
+
+## 📫 Let's Connect
+
+[![Linkedin Badge](https://img.shields.io/badge/-ashutoshmalla-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashutoshmalla/)](https://www.linkedin.com/in/ashutoshmalla/)
+
+Feel free to reach out! 😊
