@@ -6,9 +6,9 @@ I'm a passionate software developer from San Francisco. Currently, I am attendin
 
 ![Tech Stack](https://img.shields.io/badge/Tech%20Stack-Node.js%20%7C%20Django%20%7C%20Nest.js%20%7C%20PostgreSQL%20%7C%20MongoDB%20%7C%20Angular-blue)
 
-- Languages: Node.js, Python (Django), TypeScript (Nest.js)
-- Frameworks: Express.js, Django, Nest.js, Angular
-- Databases: PostgreSQL, MongoDB
+- Languages: Golang, JavaScript, Python (Django), TypeScript (Nest.js)
+- Frameworks: Express.js, Django, Nest.js, Angular, Node.js
+- Databases: PostgreSQL, MongoDB, DynamoDB, Redis
 
 ## 🌱 I'm currently learning
 
