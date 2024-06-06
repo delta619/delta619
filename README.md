@@ -1,6 +1,6 @@
 # 👋 Hello, I'm [Ashutosh]!
 
-I'm a passionate software developer from San Francisco. Currently, I work at USFCA on exciting projects.
+I'm a passionate software developer from San Francisco. Currently, I am attending events and building hobby projects.
 
 ## 🔧 Technologies & Tools
 
@@ -18,7 +18,7 @@ I'm a passionate software developer from San Francisco. Currently, I work at USF
 
 ### [Golang DFS]
 
-A distributed file system built using Golang. It is a distributed file system that supports basic file operations like `ls`, `mkdir`, `touch`, `rm`, `mv`, `cp`, `cat`, `append`, `truncate`, `stat`, `chmod`, `chown`, `chgrp`, `find`, `grep`, `sort`, `wc`, `du`, `df`, `ln`, `tree`, `diff`, `head`, `tail`, `tee`, `uniq`, `xargs`, `sed`, `awk`, `cut`, `paste`, `join`, `comm`, `split`, `tar`, `zip`, `unzip`, `gzip`, `gunzip`, `bzip2`, `bunzip2`, `zcat`, `xz`, `unxz`, `lzma`, `unlzma`, `lzcat`, `lzop`, `unlzop`, `lzip`, `unlzip`, `lz4`, `unlz4`, `lz4cat`, `zstd`, `unzstd`, `zstdcat`, `sha1sum`, `sha256sum`, `sha512sum`, `md5sum`, `xxd`, `base64`, `basename`, `dirname`, `realpath`, `wc`, `du`, `df`, `ln`, `tree`, `diff`, `head`, `tail`, `tee`, `uniq`, `xargs`, `sed`, `awk`, `cut`, `paste`, `join`, `comm`, `split`, `tar`, `zip`, `unzip`, `gzip`, `gunzip`, `bzip2`, `bunzip2`, `zcat`, `xz`, `unxz`, `lzma`, `unlzma`, `lzcat`, `lzop`, `unlzop`, `lzip`, `unlzip`, `lz4`, `unlz4`, `lz4cat`, `zstd`, `unzstd`, `zstdcat`, `sha1sum`, `sha256sum`, `sha512sum`, `md5sum`, `xxd`, `base64`, `basename`, `dirname`, `realpath`, `wc`, `du`, `df`, `ln`, `tree`, `diff`, `head`, `tail`, `tee`, `uniq`, `xargs`, `sed`, `awk`, `cut`, `paste`,
+A distributed file system built using Golang. It is a distributed file system written from scratch to utilize parallel map reduce processing techniques for distributed systems.
 
 ### [Pintnetwork]
 
